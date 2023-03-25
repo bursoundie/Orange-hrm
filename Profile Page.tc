@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view profile information</description>
+   <name>Profile Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77428b1d-fbb1-4857-bfc7-253947cd501e</testCaseGuid>
+</TestCaseEntity>

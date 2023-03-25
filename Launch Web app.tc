@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user should be able to launch the web app
+https://www.polarisbanklimited.com/</description>
+   <name>Launch Web app</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce948af1-479b-4938-84d2-a99e96f3639d</testCaseGuid>
+</TestCaseEntity>

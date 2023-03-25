@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user should be able to login with valid useername and password</description>
+   <name>Valid Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a11b9dc2-8c25-45a9-83da-4e20e2a858d2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select and change transaction pin. 
+***NOTE***
+simulator can not read verification code , therfore user has to input the verification code manually.</description>
+   <name>Change Pin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2aff57b-37b1-45b1-9839-0f2f6a77f480</testCaseGuid>
+</TestCaseEntity>
